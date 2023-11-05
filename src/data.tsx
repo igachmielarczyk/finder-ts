@@ -473,7 +473,6 @@ function getServices(): ServiceInfo[] {
       ),
       title: "Car Interest",
     },
-
   ];
 
   return services;
